@@ -10,6 +10,6 @@ Do `github.sh Commit Info`
 
 # Helpers
 
-## Airplane
+## [AirplaneGoBrr](https://github.com/AirplanegoBrr)
 
 - Me.
